@@ -1,0 +1,140 @@
+[
+    {
+        "color": "#101050", 
+        "values": [
+            {
+                "time": 22.308710416157666, 
+                "value": 1, 
+                "label": "GcBench"
+            }, 
+            {
+                "time": 18.038892030716, 
+                "value": 1, 
+                "label": "Fannkuch"
+            }, 
+            {
+                "time": 1.1339501380920498, 
+                "value": 1, 
+                "label": "Fasta"
+            }, 
+            {
+                "time": 1.2840150594711501, 
+                "value": 1, 
+                "label": "Heapsort"
+            }, 
+            {
+                "time": 204.05797958374, 
+                "value": 1, 
+                "label": "Richards"
+            }, 
+            {
+                "time": 2.02932169437408, 
+                "value": 1, 
+                "label": "Spectral Norm"
+            }, 
+            {
+                "time": 22.289981365204, 
+                "value": 1, 
+                "label": "Nbody"
+            }, 
+            {
+                "time": 28.704887390136673, 
+                "value": 1, 
+                "label": "Nbody Modifed"
+            }
+        ], 
+        "key": "PHP"
+    }, 
+    {
+        "color": "#9EC0BB", 
+        "values": [
+            {
+                "time": 8.2129590511322, 
+                "value": 0.3681503277385209, 
+                "label": "GcBench"
+            }, 
+            {
+                "time": 3.6001339753468664, 
+                "value": 0.19957622503736278, 
+                "label": "Fannkuch"
+            }, 
+            {
+                "time": 0.18005235195160002, 
+                "value": 0.158783306164194, 
+                "label": "Fasta"
+            }, 
+            {
+                "time": 0.26710381507873404, 
+                "value": 0.20802233829620864, 
+                "label": "Heapsort"
+            }, 
+            {
+                "time": 76.726670265198, 
+                "value": 0.3760042632084936, 
+                "label": "Richards"
+            }, 
+            {
+                "time": 0.24845347404480003, 
+                "value": 0.12243178335578409, 
+                "label": "Spectral Norm"
+            }, 
+            {
+                "time": 9.297719319661466, 
+                "value": 0.4171254864383047, 
+                "label": "Nbody"
+            }, 
+            {
+                "time": 17.927624622981, 
+                "value": 0.62454955420383, 
+                "label": "Nbody Modifed"
+            }
+        ], 
+        "key": "HHVM"
+    }, 
+    {
+        "color": "#000080", 
+        "values": [
+            {
+                "time": 3.355139732360833, 
+                "value": 0.15039595161586686, 
+                "label": "GcBench"
+            }, 
+            {
+                "time": 2.1806246439616, 
+                "value": 0.12088462197392767, 
+                "label": "Fannkuch"
+            }, 
+            {
+                "time": 0.19225621223449602, 
+                "value": 0.16954556093443449, 
+                "label": "Fasta"
+            }, 
+            {
+                "time": 0.25656158924102795, 
+                "value": 0.19981197833201308, 
+                "label": "Heapsort"
+            }, 
+            {
+                "time": 34.795191287994, 
+                "value": 0.17051620014553254, 
+                "label": "Richards"
+            }, 
+            {
+                "time": 0.0756436824798589, 
+                "value": 0.03727535298595933, 
+                "label": "Spectral Norm"
+            }, 
+            {
+                "time": 8.9067333539327, 
+                "value": 0.3995846029659157, 
+                "label": "Nbody"
+            }, 
+            {
+                "time": 1.9580763181050667, 
+                "value": 0.06821403935477148, 
+                "label": "Nbody Modifed"
+            }
+        ], 
+        "key": "HippyVM"
+    }
+]
